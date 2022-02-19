@@ -50,13 +50,13 @@
                     <Button Style="{StaticResource btnblack}" Content="C" x:Name="BTNC" Click="BTNC_Click"/>
                 </Grid>
                 <Grid Grid.Column="1">
-                    <Button Style="{StaticResource btnblack}" Content="DEL" x:Name="DeleteBTN" Click="DeleteBTN_Click"/>
+                    <Button Style="{StaticResource btnblack}" Content="DEL" x:Name="Delete" Click="DeleteBTN_Click"/>
                 </Grid>
                 <Grid Grid.Column="2">
-                    <Button Style="{StaticResource btnblack}" Content="/" x:Name="BulishBTN" Click="BulishBTN_Click"/>
+                    <Button Style="{StaticResource btnblack}" Content="/" x:Name="Division" Click="BulishBTN_Click"/>
                 </Grid>
                 <Grid Grid.Column="3">
-                    <Button Style="{StaticResource btnblack}" Content="X" x:Name="KupaytirBTN" Click="KupaytirBTN_Click"/>
+                    <Button Style="{StaticResource btnblack}" Content="X" x:Name="Multiplication" Click="KupaytirBTN_Click"/>
                 </Grid>
             </Grid>
 
